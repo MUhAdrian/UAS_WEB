@@ -1,7 +1,9 @@
 # UAs
 MUHAMMAD ADRIAN ARSY FADILA<br>
 312310648<br>
-<img src=DOKUMENTASI/p1.png><br>
-<img src=DOKUMENTASI/p2.png><br>
-<img src=DOKUMENTASI/p3.png><br>
+
+![Image 1](DOKUMENTASI/p1.png)  
+![Image 2](DOKUMENTASI/p2.png)  
+![Image 3](DOKUMENTASI/p3.png)
+
 
